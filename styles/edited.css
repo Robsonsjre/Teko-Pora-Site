@@ -1,0 +1,12 @@
+.bg.mobile {
+    display: none;
+}
+
+@media only screen and (max-device-width: 480px) {
+    .bg.normal {
+        display: none;
+    }
+    .bg.mobile {
+        display: block;
+    }
+}
