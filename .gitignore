@@ -1,0 +1,7 @@
+*.zip
+*.csv
+.idea/
+npm-debug.log
+dumb.rdb
+build/
+node_modules/
