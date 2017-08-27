@@ -9,12 +9,8 @@
     .bg.mobile {
         display: block;
     }
-}
-
-@media only screen and (max-device-width: 480px) {
     .teko-logo {
         width: 140px;
         height: 35px;
     }
-
 }
